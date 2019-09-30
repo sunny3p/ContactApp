@@ -1,3 +1,10 @@
+/**
+ * A complete MEAN Stack Contact Details Application.
+ * Code Reference: https://devcenter.heroku.com/articles/mean-apps-restful-api
+ *To run this app simply do following steps
+ * npm install
+ * npm start
+ */
 let express = require("express");
 let bodyParser = require("body-parser");
 let mongoose = require("mongoose");
