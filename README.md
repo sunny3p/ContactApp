@@ -1,4 +1,13 @@
-# ContactlistAngular
+# A complete MEAN Stack Contact Details Application.
+Code Reference: https://devcenter.heroku.com/articles/mean-apps-restful-api
+## Deployment Server
+To run this app simply do following steps
+ * npm install
+ * npm start
+
+
+
+## ContactlistAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
