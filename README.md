@@ -5,7 +5,7 @@ To run this app simply do following steps
  * npm install
  * npm start
 
-
+Now open the browser and http://localhost:8080/
 
 ## ContactlistAngular
 
