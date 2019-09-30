@@ -1,6 +1,7 @@
 # A complete MEAN Stack Contact Details Application.
 Code Reference: https://devcenter.heroku.com/articles/mean-apps-restful-api
-Tutorial:[GitHub](http://github.com)
+
+Tutorial:[PDF](https://github.com/sunny3p/ContactApp/blob/master/MeanStackContacListApp.pdf)
 ## Deployment Server
 To run this app simply do following steps
  * npm install
